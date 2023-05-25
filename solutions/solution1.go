@@ -8,6 +8,8 @@ import (
 	"time"
 )
 
+// Solution 1 generated enough 1 billion numbers but numbers are not in the correct order
+
 type Solution1 struct {
 	goalNumber int
 	batchSize  int
