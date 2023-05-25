@@ -53,4 +53,4 @@ The challenge organizers and contributors are not responsible for any damages or
 
 ## Contributing
 
-If you have any suggestions, improvements, or feature requests, please create an issue or a pull request. Contributions are always welcome!
+If you have any suggestions, improvements, please create an issue or a pull request. Contributions are always welcome!
